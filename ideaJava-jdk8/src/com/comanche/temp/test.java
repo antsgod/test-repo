@@ -7,6 +7,7 @@ public class test {
         System.out.println("测试");
         System.out.println("测试-hot_fix");
         System.out.println("测试-master");
+        System.out.println("0:05新提交");
     }
 
 }
